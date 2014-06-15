@@ -40,7 +40,7 @@ GNU General Public License for more details.
 A copy of the GNU General Public License is available at
 http://www.gnu.org/licenses/gpl.html
 
-Copyright 2013 Michael Malick 
+Copyright (c) 2013 Michael Malick 
 
 
 
